@@ -1,2 +1,2 @@
 # automation_ansible
-Test repo for learning about the tool
+Repo for learning about the Ansible
